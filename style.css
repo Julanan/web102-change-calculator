@@ -1,0 +1,46 @@
+form {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 60px;
+  text-align: center;
+  align-items: flex-start;
+}
+
+h2 {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+body {
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: contain;
+  background-image: url("background.jpg");
+}
+button {
+  background-color: #bd6c2b;
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  margin: 2px 1px;
+}
+.setup input {
+  vertical-align: middle;
+  margin: 10px 20px 15px 0;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #ddd;
+  align-items: center;
+  text-align: center;
+}
+input {
+  font-size: 12px;
+  text-align: center;
+  border: 1px solid;
+  width: 25vw;
+}
